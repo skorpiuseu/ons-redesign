@@ -1,0 +1,42 @@
+:root {
+  font-family:
+    Inter,
+    ui-sans-serif,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    sans-serif;
+  color: #152437;
+  background: #f5f7fc;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  --page-bg: #f5f7fc;
+  --surface: #ffffff;
+  --surface-muted: #f5f8fb;
+  --text: #152437;
+  --text-soft: #596b7d;
+  --text-faint: #5e7080;
+  --line: #dce3e9;
+  --line-strong: #cbd6de;
+  --control-border: #7e8c99;
+  --focus-ring: #08766f;
+  --teal: #08766f;
+  --teal-dark: #086b65;
+  --teal-foreground: #086b65;
+  --teal-light: #eaf6f4;
+  --teal-border: #b9d9d5;
+  --warning-bg: #fff9eb;
+  --warning-border: #e8d6a7;
+  --warning-text: #80641c;
+  --error-bg: #fdebed;
+  --warning-link: #a95300;
+  --icon-tile-neutral: #08766f;
+  --icon-tile-success: #2e8b57;
+  --icon-tile-info: #e5c24b;
+  --icon-tile-alert: #ff8c00;
+  --icon-tile-error: #c9363c;
+  --shadow: 0 1px 2px rgb(20 38 55 / 3%);
+  --control-height: 36px;
+  --control-radius: 8px;
+  --radius-card: 15px;
+}

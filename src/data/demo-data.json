@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "s1",
+    "contractor": "Demo Alfa 01",
+    "document": "FV/1/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-S-1",
+    "net": 1000,
+    "vat": 230,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000001",
+    "nip": "526-000-00-21",
+    "issueDate": "2026-10-01",
+    "saleDate": "2026-10-01",
+    "vatBreakdown": [
+      {
+        "rate": "23%",
+        "net": 1000,
+        "vat": 230
+      }
+    ]
+  },
+  {
+    "id": "s2",
+    "contractor": "Demo Alfa 02",
+    "document": "FV/2/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-S-2",
+    "net": 850,
+    "vat": 68,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000002",
+    "nip": "526-000-00-22",
+    "issueDate": "2026-10-02",
+    "saleDate": "2026-10-02",
+    "vatBreakdown": [
+      {
+        "rate": "8%",
+        "net": 850,
+        "vat": 68
+      }
+    ]
+  },
+  {
+    "id": "s3",
+    "contractor": "Demo Alfa 03",
+    "document": "KOR/3/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-S-3",
+    "net": 1200,
+    "vat": 60,
+    "operation": "Korekta",
+    "jpk": "K_19",
+    "series": "Seria B",
+    "ksefNumber": "DEMO-KSEF-2026-000003",
+    "nip": "526-000-00-23",
+    "issueDate": "2026-10-03",
+    "saleDate": "2026-10-03",
+    "vatBreakdown": [
+      {
+        "rate": "5%",
+        "net": 1200,
+        "vat": 60
+      }
+    ]
+  },
+  {
+    "id": "s4",
+    "contractor": "Demo Alfa 04",
+    "document": "FV/4/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-S-4",
+    "net": 670,
+    "vat": 0,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000004",
+    "nip": "526-000-00-24",
+    "issueDate": "2026-10-04",
+    "saleDate": "2026-10-04",
+    "vatBreakdown": [
+      {
+        "rate": "0%",
+        "net": 670,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "s5",
+    "contractor": "Demo Alfa 05",
+    "document": "FV/5/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-S-5",
+    "net": 1500,
+    "vat": 0,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria B",
+    "ksefNumber": "DEMO-KSEF-2026-000005",
+    "nip": "526-000-00-25",
+    "issueDate": "2026-10-05",
+    "saleDate": "2026-10-05",
+    "vatBreakdown": [
+      {
+        "rate": "np",
+        "net": 1500,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "s6",
+    "contractor": "Demo Alfa 06",
+    "document": "FV/6/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-S-6",
+    "net": 980,
+    "vat": 225.4,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000006",
+    "nip": "526-000-00-26",
+    "issueDate": "2026-10-06",
+    "saleDate": "2026-10-06",
+    "vatBreakdown": [
+      {
+        "rate": "23%",
+        "net": 980,
+        "vat": 225.4
+      }
+    ]
+  },
+  {
+    "id": "s7",
+    "contractor": "Demo Alfa 07",
+    "document": "FV/7/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-S-7",
+    "net": 760,
+    "vat": 60.8,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000007",
+    "nip": "526-000-00-27",
+    "issueDate": "2026-10-07",
+    "saleDate": "2026-10-07",
+    "vatBreakdown": [
+      {
+        "rate": "8%",
+        "net": 760,
+        "vat": 60.8
+      }
+    ]
+  },
+  {
+    "id": "s8",
+    "contractor": "Demo Alfa 08",
+    "document": "FV/8/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-S-8",
+    "net": 1100,
+    "vat": 55,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria B",
+    "ksefNumber": "DEMO-KSEF-2026-000008",
+    "nip": "526-000-00-28",
+    "issueDate": "2026-10-08",
+    "saleDate": "2026-10-08",
+    "vatBreakdown": [
+      {
+        "rate": "5%",
+        "net": 1100,
+        "vat": 55
+      }
+    ]
+  },
+  {
+    "id": "s9",
+    "contractor": "Demo Alfa 09",
+    "document": "FV/9/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-S-9",
+    "net": 900,
+    "vat": 0,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000009",
+    "nip": "526-000-00-29",
+    "issueDate": "2026-10-09",
+    "saleDate": "2026-10-09",
+    "vatBreakdown": [
+      {
+        "rate": "0%",
+        "net": 900,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "s10",
+    "contractor": "Demo Alfa 10",
+    "document": "FV/10/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-S-10",
+    "net": 740,
+    "vat": 0,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000010",
+    "nip": "526-000-00-30",
+    "issueDate": "2026-10-10",
+    "saleDate": "2026-10-10",
+    "vatBreakdown": [
+      {
+        "rate": "np",
+        "net": 740,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "s11",
+    "contractor": "Demo Alfa 11",
+    "document": "FV/11/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-S-11",
+    "net": 1100,
+    "vat": 253,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000011",
+    "nip": "526-000-00-31",
+    "issueDate": "2026-10-11",
+    "saleDate": "2026-10-11",
+    "vatBreakdown": [
+      {
+        "rate": "23%",
+        "net": 1100,
+        "vat": 253
+      }
+    ]
+  },
+  {
+    "id": "s12",
+    "contractor": "Demo Alfa 12",
+    "document": "FV/12/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-S-12",
+    "net": 900,
+    "vat": 72,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria B",
+    "ksefNumber": "DEMO-KSEF-2026-000012",
+    "nip": "526-000-00-32",
+    "issueDate": "2026-10-12",
+    "saleDate": "2026-10-12",
+    "vatBreakdown": [
+      {
+        "rate": "8%",
+        "net": 900,
+        "vat": 72
+      }
+    ]
+  },
+  {
+    "id": "s13",
+    "contractor": "Demo Alfa 13",
+    "document": "FV/13/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-S-13",
+    "net": 640,
+    "vat": 32,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000013",
+    "nip": "526-000-00-33",
+    "issueDate": "2026-10-14",
+    "saleDate": "2026-10-14",
+    "vatBreakdown": [
+      {
+        "rate": "5%",
+        "net": 640,
+        "vat": 32
+      }
+    ]
+  },
+  {
+    "id": "s14",
+    "contractor": "Demo Alfa 14",
+    "document": "FV/14/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-S-14",
+    "net": 780,
+    "vat": 0,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria B",
+    "nip": "526-000-00-34",
+    "issueDate": "2026-10-16",
+    "saleDate": "2026-10-16",
+    "vatBreakdown": [
+      {
+        "rate": "0%",
+        "net": 780,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "s15",
+    "contractor": "Demo Alfa 15",
+    "document": "FV/15/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-S-15",
+    "net": 1145,
+    "vat": 0,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "nip": "526-000-00-35",
+    "issueDate": "2026-10-16",
+    "saleDate": "2026-10-16",
+    "vatBreakdown": [
+      {
+        "rate": "np",
+        "net": 1145,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "s16",
+    "contractor": "Demo Alfa 16",
+    "document": "FV/16/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-S-16",
+    "net": 1282,
+    "vat": 294.86,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria B",
+    "nip": "526-000-00-36",
+    "issueDate": "2026-10-17",
+    "saleDate": "2026-10-17",
+    "vatBreakdown": [
+      {
+        "rate": "23%",
+        "net": 1282,
+        "vat": 294.86
+      }
+    ]
+  },
+  {
+    "id": "s17",
+    "contractor": "Demo Alfa 17",
+    "document": "FV/17/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-S-17",
+    "net": 1419,
+    "vat": 113.52,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "nip": "526-000-00-37",
+    "issueDate": "2026-10-18",
+    "saleDate": "2026-10-18",
+    "vatBreakdown": [
+      {
+        "rate": "8%",
+        "net": 1419,
+        "vat": 113.52
+      }
+    ]
+  },
+  {
+    "id": "s18",
+    "contractor": "Demo Alfa 18",
+    "document": "FV/18/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-S-18",
+    "net": 1556,
+    "vat": 77.8,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria B",
+    "nip": "526-000-00-38",
+    "issueDate": "2026-10-19",
+    "saleDate": "2026-10-19",
+    "vatBreakdown": [
+      {
+        "rate": "5%",
+        "net": 1556,
+        "vat": 77.8
+      }
+    ]
+  },
+  {
+    "id": "s19",
+    "contractor": "Demo Alfa 19",
+    "document": "KOR/19/10/2026/DEMO",
+    "ks ef": "Odrzucono",
+    "identifier": "DEMO-S-19",
+    "net": 1693,
+    "vat": 0,
+    "operation": "Korekta",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "nip": "526-000-00-39",
+    "issueDate": "2026-10-20",
+    "saleDate": "2026-10-20",
+    "vatBreakdown": [
+      {
+        "rate": "0%",
+        "net": 1693,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "s20",
+    "contractor": "Demo Alfa 20",
+    "document": "FV/20/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-S-20",
+    "net": 1830,
+    "vat": 0,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria B",
+    "nip": "526-000-00-40",
+    "issueDate": "2026-10-21",
+    "saleDate": "2026-10-21",
+    "vatBreakdown": [
+      {
+        "rate": "np",
+        "net": 1830,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "s21",
+    "contractor": "Demo Alfa 21",
+    "document": "FV/21/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-S-21",
+    "net": 1967,
+    "vat": 452.41,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "nip": "526-000-00-41",
+    "issueDate": "2026-10-22",
+    "saleDate": "2026-10-22",
+    "vatBreakdown": [
+      {
+        "rate": "23%",
+        "net": 1967,
+        "vat": 452.41
+      }
+    ]
+  },
+  {
+    "id": "s22",
+    "contractor": "Demo Alfa 22",
+    "document": "FV/22/10/2026/DEMO",
+    "ks ef": "Błąd wysyłki",
+    "identifier": "DEMO-S-22",
+    "net": 654,
+    "vat": 52.32,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria B",
+    "nip": "526-000-00-42",
+    "issueDate": "2026-10-23",
+    "saleDate": "2026-10-23",
+    "vatBreakdown": [
+      {
+        "rate": "8%",
+        "net": 654,
+        "vat": 52.32
+      }
+    ]
+  },
+  {
+    "id": "s23",
+    "contractor": "Demo Alfa 23",
+    "document": "FV/23/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-S-23",
+    "net": 791,
+    "vat": 39.55,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "nip": "526-000-00-43",
+    "issueDate": "2026-10-24",
+    "saleDate": "2026-10-24",
+    "vatBreakdown": [
+      {
+        "rate": "5%",
+        "net": 791,
+        "vat": 39.55
+      }
+    ]
+  },
+  {
+    "id": "s24",
+    "contractor": "Demo Alfa 24",
+    "document": "FV/24/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-S-24",
+    "net": 928,
+    "vat": 0,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria B",
+    "nip": "526-000-00-44",
+    "issueDate": "2026-10-25",
+    "saleDate": "2026-10-25",
+    "vatBreakdown": [
+      {
+        "rate": "0%",
+        "net": 928,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "s25",
+    "contractor": "Demo Alfa 25",
+    "document": "FV/25/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-S-25",
+    "net": 1065,
+    "vat": 0,
+    "operation": "Sprzedaż krajowa",
+    "jpk": "K_19",
+    "series": "Seria A",
+    "nip": "526-000-00-45",
+    "issueDate": "2026-10-26",
+    "saleDate": "2026-10-26",
+    "vatBreakdown": [
+      {
+        "rate": "np",
+        "net": 1065,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "p1",
+    "contractor": "Demo Beta 01",
+    "document": "ZAK/1/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-Z-1",
+    "net": 400,
+    "vat": 92,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000014",
+    "nip": "527-000-00-21",
+    "issueDate": "2026-10-02",
+    "saleDate": "2026-10-02",
+    "vatBreakdown": [
+      {
+        "rate": "23%",
+        "net": 400,
+        "vat": 92
+      }
+    ]
+  },
+  {
+    "id": "p2",
+    "contractor": "Demo Beta 02",
+    "document": "ZAK/2/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-Z-2",
+    "net": 620,
+    "vat": 49.6,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000015",
+    "nip": "527-000-00-22",
+    "issueDate": "2026-10-04",
+    "saleDate": "2026-10-04",
+    "vatBreakdown": [
+      {
+        "rate": "8%",
+        "net": 620,
+        "vat": 49.6
+      }
+    ]
+  },
+  {
+    "id": "p3",
+    "contractor": "Demo Beta 03",
+    "document": "ZAK/3/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-Z-3",
+    "net": 350,
+    "vat": 17.5,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria B",
+    "ksefNumber": "DEMO-KSEF-2026-000016",
+    "nip": "527-000-00-23",
+    "issueDate": "2026-10-06",
+    "saleDate": "2026-10-06",
+    "vatBreakdown": [
+      {
+        "rate": "5%",
+        "net": 350,
+        "vat": 17.5
+      }
+    ]
+  },
+  {
+    "id": "p4",
+    "contractor": "Demo Beta 04",
+    "document": "ZAK/4/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-Z-4",
+    "net": 500,
+    "vat": 0,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000017",
+    "nip": "527-000-00-24",
+    "issueDate": "2026-10-08",
+    "saleDate": "2026-10-08",
+    "vatBreakdown": [
+      {
+        "rate": "0%",
+        "net": 500,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "p5",
+    "contractor": "Demo Beta 05",
+    "document": "ZAK/5/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-Z-5",
+    "net": 780,
+    "vat": 0,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria B",
+    "ksefNumber": "DEMO-KSEF-2026-000018",
+    "nip": "527-000-00-25",
+    "issueDate": "2026-10-10",
+    "saleDate": "2026-10-10",
+    "vatBreakdown": [
+      {
+        "rate": "np",
+        "net": 780,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "p6",
+    "contractor": "Demo Beta 06",
+    "document": "ZAK/6/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-Z-6",
+    "net": 560,
+    "vat": 128.8,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000019",
+    "nip": "527-000-00-26",
+    "issueDate": "2026-10-12",
+    "saleDate": "2026-10-12",
+    "vatBreakdown": [
+      {
+        "rate": "23%",
+        "net": 560,
+        "vat": 128.8
+      }
+    ]
+  },
+  {
+    "id": "p7",
+    "contractor": "Demo Beta 07",
+    "document": "ZAK/7/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-Z-7",
+    "net": 330,
+    "vat": 26.4,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000020",
+    "nip": "527-000-00-27",
+    "issueDate": "2026-10-15",
+    "saleDate": "2026-10-15",
+    "vatBreakdown": [
+      {
+        "rate": "8%",
+        "net": 330,
+        "vat": 26.4
+      }
+    ]
+  },
+  {
+    "id": "p8",
+    "contractor": "Demo Beta 08",
+    "document": "ZAK/8/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-Z-8",
+    "net": 890,
+    "vat": 44.5,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000021",
+    "nip": "527-000-00-28",
+    "issueDate": "2026-10-18",
+    "saleDate": "2026-10-18",
+    "vatBreakdown": [
+      {
+        "rate": "5%",
+        "net": 890,
+        "vat": 44.5
+      }
+    ]
+  },
+  {
+    "id": "p9",
+    "contractor": "Demo Beta 09",
+    "document": "ZAK/9/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-Z-9",
+    "net": 450,
+    "vat": 0,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria B",
+    "ksefNumber": "DEMO-KSEF-2026-000022",
+    "nip": "527-000-00-29",
+    "issueDate": "2026-10-21",
+    "saleDate": "2026-10-21",
+    "vatBreakdown": [
+      {
+        "rate": "0%",
+        "net": 450,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "p10",
+    "contractor": "Demo Beta 10",
+    "document": "ZAK/10/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-Z-10",
+    "net": 710,
+    "vat": 0,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000023",
+    "nip": "527-000-00-30",
+    "issueDate": "2026-10-25",
+    "saleDate": "2026-10-25",
+    "vatBreakdown": [
+      {
+        "rate": "np",
+        "net": 710,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "p11",
+    "contractor": "Demo Beta 11",
+    "document": "ZAK/11/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-Z-11",
+    "net": 1123,
+    "vat": 258.29,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "ksefNumber": "DEMO-KSEF-2026-000024",
+    "nip": "527-000-00-31",
+    "issueDate": "2026-10-09",
+    "saleDate": "2026-10-09",
+    "vatBreakdown": [
+      {
+        "rate": "23%",
+        "net": 1123,
+        "vat": 258.29
+      }
+    ]
+  },
+  {
+    "id": "p12",
+    "contractor": "Demo Beta 12",
+    "document": "ZAK/12/10/2026/DEMO",
+    "ks ef": "Potwierdzono",
+    "identifier": "DEMO-Z-12",
+    "net": 1316,
+    "vat": 105.28,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria B",
+    "ksefNumber": "DEMO-KSEF-2026-000025",
+    "nip": "527-000-00-32",
+    "issueDate": "2026-10-12",
+    "saleDate": "2026-10-12",
+    "vatBreakdown": [
+      {
+        "rate": "8%",
+        "net": 1316,
+        "vat": 105.28
+      }
+    ]
+  },
+  {
+    "id": "p13",
+    "contractor": "Demo Beta 13",
+    "document": "ZAK/13/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-Z-13",
+    "net": 1509,
+    "vat": 75.45,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "nip": "527-000-00-33",
+    "issueDate": "2026-10-15",
+    "saleDate": "2026-10-15",
+    "vatBreakdown": [
+      {
+        "rate": "5%",
+        "net": 1509,
+        "vat": 75.45
+      }
+    ]
+  },
+  {
+    "id": "p14",
+    "contractor": "Demo Beta 14",
+    "document": "ZAK/14/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-Z-14",
+    "net": 382,
+    "vat": 0,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria B",
+    "nip": "527-000-00-34",
+    "issueDate": "2026-10-18",
+    "saleDate": "2026-10-18",
+    "vatBreakdown": [
+      {
+        "rate": "0%",
+        "net": 382,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "p15",
+    "contractor": "Demo Beta 15",
+    "document": "ZAK/15/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-Z-15",
+    "net": 575,
+    "vat": 0,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "nip": "527-000-00-35",
+    "issueDate": "2026-10-21",
+    "saleDate": "2026-10-21",
+    "vatBreakdown": [
+      {
+        "rate": "np",
+        "net": 575,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "p16",
+    "contractor": "Demo Beta 16",
+    "document": "ZAK/16/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-Z-16",
+    "net": 768,
+    "vat": 176.64,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria B",
+    "nip": "527-000-00-36",
+    "issueDate": "2026-10-24",
+    "saleDate": "2026-10-24",
+    "vatBreakdown": [
+      {
+        "rate": "23%",
+        "net": 768,
+        "vat": 176.64
+      }
+    ]
+  },
+  {
+    "id": "p17",
+    "contractor": "Demo Beta 17",
+    "document": "ZAK/17/10/2026/DEMO",
+    "ks ef": "Wymaga wyjaśnienia",
+    "identifier": "DEMO-Z-17",
+    "net": 961,
+    "vat": 76.88,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "nip": "527-000-00-37",
+    "issueDate": "2026-10-27",
+    "saleDate": "2026-10-27",
+    "vatBreakdown": [
+      {
+        "rate": "8%",
+        "net": 961,
+        "vat": 76.88
+      }
+    ]
+  },
+  {
+    "id": "p18",
+    "contractor": "Demo Beta 18",
+    "document": "ZAK/18/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-Z-18",
+    "net": 1154,
+    "vat": 57.7,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria B",
+    "nip": "527-000-00-38",
+    "issueDate": "2026-10-03",
+    "saleDate": "2026-10-03",
+    "vatBreakdown": [
+      {
+        "rate": "5%",
+        "net": 1154,
+        "vat": 57.7
+      }
+    ]
+  },
+  {
+    "id": "p19",
+    "contractor": "Demo Beta 19",
+    "document": "ZAK/19/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-Z-19",
+    "net": 1347,
+    "vat": 0,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "nip": "527-000-00-39",
+    "issueDate": "2026-10-06",
+    "saleDate": "2026-10-06",
+    "vatBreakdown": [
+      {
+        "rate": "0%",
+        "net": 1347,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "p20",
+    "contractor": "Demo Beta 20",
+    "document": "ZAK/20/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-Z-20",
+    "net": 1540,
+    "vat": 0,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria B",
+    "nip": "527-000-00-40",
+    "issueDate": "2026-10-09",
+    "saleDate": "2026-10-09",
+    "vatBreakdown": [
+      {
+        "rate": "np",
+        "net": 1540,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "p21",
+    "contractor": "Demo Beta 21",
+    "document": "ZAK/21/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-Z-21",
+    "net": 413,
+    "vat": 94.99,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "nip": "527-000-00-41",
+    "issueDate": "2026-10-12",
+    "saleDate": "2026-10-12",
+    "vatBreakdown": [
+      {
+        "rate": "23%",
+        "net": 413,
+        "vat": 94.99
+      }
+    ]
+  },
+  {
+    "id": "p22",
+    "contractor": "Demo Beta 22",
+    "document": "ZAK/22/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-Z-22",
+    "net": 606,
+    "vat": 48.48,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria B",
+    "nip": "527-000-00-42",
+    "issueDate": "2026-10-15",
+    "saleDate": "2026-10-15",
+    "vatBreakdown": [
+      {
+        "rate": "8%",
+        "net": 606,
+        "vat": 48.48
+      }
+    ]
+  },
+  {
+    "id": "p23",
+    "contractor": "Demo Beta 23",
+    "document": "ZAK/23/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-Z-23",
+    "net": 799,
+    "vat": 39.95,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "nip": "527-000-00-43",
+    "issueDate": "2026-10-18",
+    "saleDate": "2026-10-18",
+    "vatBreakdown": [
+      {
+        "rate": "5%",
+        "net": 799,
+        "vat": 39.95
+      }
+    ]
+  },
+  {
+    "id": "p24",
+    "contractor": "Demo Beta 24",
+    "document": "ZAK/24/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-Z-24",
+    "net": 992,
+    "vat": 0,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria B",
+    "nip": "527-000-00-44",
+    "issueDate": "2026-10-21",
+    "saleDate": "2026-10-21",
+    "vatBreakdown": [
+      {
+        "rate": "0%",
+        "net": 992,
+        "vat": 0
+      }
+    ]
+  },
+  {
+    "id": "p25",
+    "contractor": "Demo Beta 25",
+    "document": "ZAK/25/10/2026/DEMO",
+    "ks ef": "Brak potwierdzenia",
+    "identifier": "DEMO-Z-25",
+    "net": 1185,
+    "vat": 0,
+    "operation": "Zakup krajowy",
+    "jpk": "K_42",
+    "series": "Seria A",
+    "nip": "527-000-00-45",
+    "issueDate": "2026-10-24",
+    "saleDate": "2026-10-24",
+    "vatBreakdown": [
+      {
+        "rate": "np",
+        "net": 1185,
+        "vat": 0
+      }
+    ]
+  }
+]
